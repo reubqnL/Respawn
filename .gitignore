@@ -1,0 +1,15 @@
+# .NET Build outputs & caches
+[Bb]in/
+[Oo]bj/
+[Tt]estResults/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider IDE files
+.idea/
+*.iml
+
+# macOS system files (if you ever see them popping up)
+.DS_Store
